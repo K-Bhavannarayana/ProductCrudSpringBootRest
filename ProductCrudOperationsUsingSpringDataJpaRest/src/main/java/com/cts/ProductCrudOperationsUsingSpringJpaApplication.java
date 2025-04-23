@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProductCrudOperationsUsingSpringJpaApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Hai");
 		SpringApplication.run(ProductCrudOperationsUsingSpringJpaApplication.class, args);
 		
 	}
